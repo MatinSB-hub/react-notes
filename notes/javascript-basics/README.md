@@ -1,7 +1,7 @@
 # JavaScript Basics (ES6+)
 
 ## موضوعات این دسته
-
+<!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
 3. [Spread Syntax](03-spread-syntax.md)
