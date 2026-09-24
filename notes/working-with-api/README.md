@@ -1,7 +1,7 @@
 # Working with APIs (fetch, axios, patterns)
 
 ## موضوعات این دسته
-
+<!--
 1. [LocalStorage](01-local-storage.md)
 2. [Callback](02-callback.md)
 3. [Promise](03-promise.md)
