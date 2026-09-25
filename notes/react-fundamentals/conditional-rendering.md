@@ -2,9 +2,7 @@
 
 > دسته: React Fundamentals
 
-چون دستورات `AND` و `OR` در `js` از `Short Circuit Evaluation` پیروی میکنند مفهومی به نام
-
-`Conditional Rendering` به وجود می آید
+چون دستورات `AND` و `OR` در `js` از `Short Circuit Evaluation` پیروی میکنند مفهومی به نام `Conditional Rendering` به وجود می آید
 
 ```jsx
 let isLogin = true;
@@ -42,10 +40,7 @@ isLogin || alert("you are not login") || alert("||");
 نکته: چون `0` یه `falsy` هست، `React` همون `0` رو به‌عنوان خروجی رندر می‌کنه (چون `JSX` عدد رو چاپ می‌کنه).
 
 ```jsx
-{
-  items.length && <List />;
-} // اگه length صفر باشه، "0" روی صفحه چاپ می‌شه ❌
-{
-  items.length > 0 && <List />;
-} // درست ✅
+  items.length && <List />; // اگه length صفر باشه، "0" روی صفحه چاپ می‌شه ❌
+
+  items.length > 0 && <List />; // درست ✅
 ```

@@ -7,8 +7,9 @@
 ## دسته‌بندی‌ها
 
 ### JavaScript Basics (ES6+)
+---
 پوشه: [`notes/javascript-basics/`](notes/javascript-basics/)
-
+<!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
 3. [Spread Syntax](notes/javascript-basics/03-spread-syntax.md)
@@ -31,11 +32,16 @@
 20. [difference between || and ?? operators](notes/javascript-basics/20-difference-between-and-operators.md)
 21. [New Set](notes/javascript-basics/21-new-set.md)
 22. [Numbers length](notes/javascript-basics/22-number-length.md)
+-->
+
+
+
 
 ### React Fundamentals
+---
 پوشه: [`notes/react-fundamentals/`](notes/react-fundamentals/)
-
-1. [Conditional Rendering(Logical Operator)](notes/react-fundamentals/01-conditional-rendering.md)
+1. [Conditional Rendering(Logical Operator)](notes/react-fundamentals/conditional-rendering.md)
+<!--
 2. [Css import](notes/react-fundamentals/02-css-import.md)
 3. [CSS Modules](notes/react-fundamentals/03-css-modules.md)
 4. [JSX and Recat.createElement](notes/react-fundamentals/04-jsx-react-create-element.md)
@@ -61,10 +67,15 @@
 24. [Table syntax in React](notes/react-fundamentals/24-table-syntax-in-raect.md)
 25. [LifeCycle](notes/react-fundamentals/25-life-cycle.md)
 26. [ReactDOM.createPortal()](notes/react-fundamentals/26-createportal.md)
+-->
+
+
+
 
 ### React Hooks & Performance
+---
 پوشه: [`notes/hooks-and-performance/`](notes/hooks-and-performance/)
-
+<!--
 1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
 3. [useMemo](notes/hooks-and-performance/03-use-memo.md)
@@ -84,10 +95,15 @@
 17. [pure Functions & impure functions](notes/hooks-and-performance/17-pure-functions-impure-functions.md)
 18. [HOF](notes/hooks-and-performance/18-hof.md)
 19. [HOC](notes/hooks-and-performance/19-hoc.md)
+-->
+
+
+
 
 ### React Router
+---
 پوشه: [`notes/react-router/`](notes/react-router/)
-
+<!--
 1. [react-router](notes/react-router/01-react-router.md)
 2. [Loader](notes/react-router/02-loader.md)
 3. [Not Found](notes/react-router/03-not-found.md)
@@ -102,10 +118,15 @@
 12. [searchParams](notes/react-router/12-search-params.md)
 13. [NavLink](notes/react-router/13-nav-link.md)
 14. [Scroll reset](notes/react-router/14-scroll-reset.md)
+-->
+
+
+
 
 ### Working with APIs (fetch, axios, patterns)
+---
 پوشه: [`notes/working-with-api/`](notes/working-with-api/)
-
+<!--
 1. [LocalStorage](notes/working-with-api/01-local-storage.md)
 2. [Callback](notes/working-with-api/02-callback.md)
 3. [Promise](notes/working-with-api/03-promise.md)
@@ -122,10 +143,15 @@
 14. [Response Interceptors](notes/working-with-api/14-axios-interceptors.md)
 15. [withCredentials](notes/working-with-api/15-withcredentials.md)
 16. [URL.createObjectURL(file)](notes/working-with-api/16-url-create-object-url-file.md)
+-->
+
+
+
 
 ### Useful Packages & Tools
+---
 پوشه: [`notes/packages-and-tools/`](notes/packages-and-tools/)
-
+<!--
 1. [react-icons package](notes/packages-and-tools/01-recat-icons-package.md)
 2. [Tailwind Css](notes/packages-and-tools/02-tailwind-css.md)
 3. [react-hot-toast Package](notes/packages-and-tools/03-react-hot-toast.md)
@@ -138,3 +164,4 @@
 10. [Leaflet (Package)](notes/packages-and-tools/10-leaflet-package.md)
 11. [Loading skelton](notes/packages-and-tools/11-loading-skelton.md)
 12. [scrollIntoView](notes/packages-and-tools/12-scroll-into-view.md)
+-->
