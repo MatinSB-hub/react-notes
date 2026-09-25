@@ -1,6 +1,7 @@
 # React Hooks & Performance
 
 ## موضوعات این دسته
+19. [HOC](hoc.md)
 <!--
 1. [useId](01-use-id.md)
 2. [useEffect](02-use-effect.md)
@@ -20,4 +21,3 @@
 16. [Profiler](16-profiler.md)
 17. [pure Functions & impure functions](17-pure-functions-impure-functions.md)
 18. [HOF](18-hof.md)
-19. [HOC](19-hoc.md)
