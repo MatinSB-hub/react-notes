@@ -75,6 +75,8 @@
 ### React Hooks & Performance
 ---
 پوشه: [`notes/hooks-and-performance/`](notes/hooks-and-performance/)
+
+1. [HOC](notes/hooks-and-performance/hoc.md)
 <!--
 1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
@@ -94,7 +96,6 @@
 16. [Profiler](notes/hooks-and-performance/16-profiler.md)
 17. [pure Functions & impure functions](notes/hooks-and-performance/17-pure-functions-impure-functions.md)
 18. [HOF](notes/hooks-and-performance/18-hof.md)
-19. [HOC](notes/hooks-and-performance/19-hoc.md)
 -->
 
 
