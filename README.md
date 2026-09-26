@@ -77,10 +77,11 @@
 پوشه: [`notes/hooks-and-performance/`](notes/hooks-and-performance/)
 
 1. [HOC](notes/hooks-and-performance/hoc.md)
-2. [useMemo](notes/hooks-and-performance/use-memo.md)
+2. [memo](notes/hooks-and-performance/memo.md)
 <!--
 1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
+3. [useMemo](notes/hooks-and-performance/3-use-memo.md)
 4. [useCallback](notes/hooks-and-performance/04-use-callback.md)
 5. [useRef](notes/hooks-and-performance/05-use-ref.md)
 6. [useLayoutEffect](notes/hooks-and-performance/06-use-layout-effect.md)
@@ -92,7 +93,6 @@
 12. [useLocalStorage](notes/hooks-and-performance/12-use-local-storage.md)
 13. [useToggle](notes/hooks-and-performance/13-use-toggle.md)
 14. [useInput](notes/hooks-and-performance/14-use-input.md)
-15. [React.memo](notes/hooks-and-performance/15-react-memo.md)
 16. [Profiler](notes/hooks-and-performance/16-profiler.md)
 17. [pure Functions & impure functions](notes/hooks-and-performance/17-pure-functions-impure-functions.md)
 18. [HOF](notes/hooks-and-performance/18-hof.md)
