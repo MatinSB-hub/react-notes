@@ -77,10 +77,10 @@
 پوشه: [`notes/hooks-and-performance/`](notes/hooks-and-performance/)
 
 1. [HOC](notes/hooks-and-performance/hoc.md)
+2. [useMemo](notes/hooks-and-performance/use-memo.md)
 <!--
 1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
-3. [useMemo](notes/hooks-and-performance/03-use-memo.md)
 4. [useCallback](notes/hooks-and-performance/04-use-callback.md)
 5. [useRef](notes/hooks-and-performance/05-use-ref.md)
 6. [useLayoutEffect](notes/hooks-and-performance/06-use-layout-effect.md)
