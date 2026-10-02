@@ -10,7 +10,7 @@
 
 مورد استفاده:
 
-زمانی که از `memo` استفاده میکنیم همانطور که در نکته توضیحات <a href="https://github.com/MatinSB-hub/react-notes/edit/master/notes/hooks-and-performance/memo.md" target="_blank">memo</a> در همین `document` گفته شده اگر `prop` دریافتی یک `function` باشد `memo` به درستی کار نخواهد کرد چون توابع از نوع `reference type` هستند و با هر بار `rerender` شدن کامپوننت چون تابع ها هم از اول ساخته میشوند آدرس تابع در خانه حافظه با آدرسش در `render` قبلی متفاوت است و در نتیجه `memo` نمیتواند تشخیص دهد که این همان تابع قبلی است و کامپوننت `memo` شده را `rerender` میکند
+زمانی که از `memo` استفاده میکنیم همانطور که در نکته توضیحات <a href="memo.md" target="_blank">memo</a> در همین `document` گفته شده اگر `prop` دریافتی یک `function` باشد `memo` به درستی کار نخواهد کرد چون توابع از نوع `reference type` هستند و با هر بار `rerender` شدن کامپوننت چون تابع ها هم از اول ساخته میشوند آدرس تابع در خانه حافظه با آدرسش در `render` قبلی متفاوت است و در نتیجه `memo` نمیتواند تشخیص دهد که این همان تابع قبلی است و کامپوننت `memo` شده را `rerender` میکند
 
 ![code screenshot](../../assets/images/image26.png)
 
