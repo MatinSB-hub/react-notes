@@ -4,10 +4,10 @@
 1. [HOC](hoc.md)
 2. [memo](memo.md)
 3. [useMemo](use-memo.md)
+4. [useCallback](use-callback.md)
 <!--
 1. [useId](01-use-id.md)
 2. [useEffect](02-use-effect.md)
-4. [useCallback](04-use-callback.md)
 5. [useRef](05-use-ref.md)
 6. [useLayoutEffect](06-use-layout-effect.md)
 7. [Context (useContext)](07-context-use-context.md)
