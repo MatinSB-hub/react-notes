@@ -3,6 +3,7 @@
 ## موضوعات این دسته
 
 1. [Conditional Rendering(Logical Operator)](conditional-rendering.md)
+1. [Activity Component](activity-component.md)
 <!--
 3. [Css import](02-css-import.md)
 4. [CSS Modules](03-css-modules.md)
