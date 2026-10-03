@@ -41,6 +41,7 @@
 ---
 پوشه: [`notes/react-fundamentals/`](notes/react-fundamentals/)
 1. [Conditional Rendering(Logical Operator)](notes/react-fundamentals/conditional-rendering.md)
+2. [Activity Component](notes/react-fundamentals/activity-component.md)
 <!--
 2. [Css import](notes/react-fundamentals/02-css-import.md)
 3. [CSS Modules](notes/react-fundamentals/03-css-modules.md)
