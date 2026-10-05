@@ -6,10 +6,10 @@
 3. [useMemo](use-memo.md)
 4. [useCallback](use-callback.md)
 5. [useRef](use-ref.md)
+6. [useLayoutEffect](use-layout-effect.md)
 <!--
 1. [useId](01-use-id.md)
 2. [useEffect](02-use-effect.md)
-6. [useLayoutEffect](06-use-layout-effect.md)
 7. [Context (useContext)](07-context-use-context.md)
 8. [useReducer](08-usereducer-top.md)
 9. [Custom Hooks](09-custom-hook.md)
