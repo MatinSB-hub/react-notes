@@ -82,10 +82,10 @@
 3. [useMemo](notes/hooks-and-performance/use-memo.md)
 4. [useCallback](notes/hooks-and-performance/use-callback.md)
 5. [useRef](notes/hooks-and-performance/use-ref.md)
+6. [useLayoutEffect](notes/hooks-and-performance/use-layout-effect.md)
 <!--
 1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
-6. [useLayoutEffect](notes/hooks-and-performance/06-use-layout-effect.md)
 7. [Context (useContext)](notes/hooks-and-performance/07-context-use-context.md)
 8. [useReducer](notes/hooks-and-performance/08-usereducer-top.md)
 9. [Custom Hooks](notes/hooks-and-performance/09-custom-hook.md)
