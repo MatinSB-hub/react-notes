@@ -128,6 +128,7 @@
 ### Working with APIs (fetch, axios, patterns)
 ---
 پوشه: [`notes/working-with-api/`](notes/working-with-api/)
+1. [Debounce](notes/working-with-api/debounce.md)
 <!--
 1. [LocalStorage](notes/working-with-api/01-local-storage.md)
 2. [Callback](notes/working-with-api/02-callback.md)
@@ -136,7 +137,6 @@
 5. [Clean up](notes/working-with-api/05-clean-up.md)
 6. [Retries](notes/working-with-api/06-retries.md)
 7. [Exponential backoff](notes/working-with-api/07-exponential-backoff.md)
-8. [Debounce](notes/working-with-api/08-debounce.md)
 9. [Working With API](notes/working-with-api/09-working-with-api.md)
 10. [Sonner (package)](notes/working-with-api/10-sonner-package.md)
 11. [3 type of logics](notes/working-with-api/11-tree-type-of-logics.md)
