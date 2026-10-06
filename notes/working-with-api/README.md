@@ -1,6 +1,7 @@
 # Working with APIs (fetch, axios, patterns)
 
 ## موضوعات این دسته
+1. [Debounce](debounce.md)
 <!--
 1. [LocalStorage](01-local-storage.md)
 2. [Callback](02-callback.md)
@@ -9,7 +10,6 @@
 5. [Clean up](05-clean-up.md)
 6. [Retries](06-retries.md)
 7. [Exponential backoff](07-exponential-backoff.md)
-8. [Debounce](08-debounce.md)
 9. [Working With API](09-working-with-api.md)
 10. [Sonner (package)](10-sonner-package.md)
 11. [3 type of logics](11-tree-type-of-logics.md)
