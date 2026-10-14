@@ -13,8 +13,9 @@ function Home() {
 
   return (
 
-    <div className={clsx("text-5xl text-yellow-500", isHidden ?
-"bg-blue-400" : "bg-red-500")}>Home</div>
+    <div className={clsx("text-5xl text-yellow-500", isHidden ? "bg-blue-400" : "bg-red-500")}>
+      Home
+    </div>
 
   )
 
