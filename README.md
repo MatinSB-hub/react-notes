@@ -153,6 +153,7 @@
 ### Useful Packages & Tools
 ---
 پوشه: [`notes/packages-and-tools/`](notes/packages-and-tools/)
+1. [clsx](notes/packages-and-tools/clsx.md)
 <!--
 1. [react-icons package](notes/packages-and-tools/01-recat-icons-package.md)
 2. [Tailwind Css](notes/packages-and-tools/02-tailwind-css.md)
@@ -160,7 +161,6 @@
 4. [Sweetalert Package](notes/packages-and-tools/04-sweetalert.md)
 5. [zod Package](notes/packages-and-tools/05-zod-package.md)
 6. [React-bootstrap](notes/packages-and-tools/06-react-bootstrap.md)
-7. [clsx](notes/packages-and-tools/07-clsx.md)
 8. [Recharts](notes/packages-and-tools/08-recharts.md)
 9. [Recat-Select (package)](notes/packages-and-tools/09-recat-select-package.md)
 10. [Leaflet (Package)](notes/packages-and-tools/10-leaflet-package.md)
