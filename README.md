@@ -154,6 +154,7 @@
 ---
 پوشه: [`notes/packages-and-tools/`](notes/packages-and-tools/)
 1. [clsx](notes/packages-and-tools/clsx.md)
+2. [tanStack (reactQuery)](notes/packages-and-tools/tanStack-reactQuery/useQuery.md)
 <!--
 1. [react-icons package](notes/packages-and-tools/01-recat-icons-package.md)
 2. [Tailwind Css](notes/packages-and-tools/02-tailwind-css.md)
