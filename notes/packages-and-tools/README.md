@@ -2,7 +2,8 @@
 
 ## موضوعات این دسته
 1. [clsx](clsx.md)
-2. [tanStack (reactQuery)](tanStack-reactQuery/useQuery.md)
+2. [tanStack (useQuery)](tanStack-reactQuery/useQuery.md)
+2. [tanStack (useMutation)](tanStack-reactQuery/useMutation.md)
 <!--
 1. [react-icons package](01-recat-icons-package.md)
 2. [Tailwind Css](02-tailwind-css.md)
