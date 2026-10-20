@@ -42,6 +42,7 @@
 پوشه: [`notes/react-fundamentals/`](notes/react-fundamentals/)
 1. [Conditional Rendering(Logical Operator)](notes/react-fundamentals/conditional-rendering.md)
 2. [Activity Component](notes/react-fundamentals/activity-component.md)
+3. [Fragment](notes/react-fundamentals/fragment.md)
 <!--
 2. [Css import](notes/react-fundamentals/02-css-import.md)
 3. [CSS Modules](notes/react-fundamentals/03-css-modules.md)
@@ -63,7 +64,6 @@
 19. [Map (List Rendering)](notes/react-fundamentals/19-map-list-rendering.md)
 20. [Controlled Component](notes/react-fundamentals/20-controlled-components.md)
 21. [Pass a method as prop](notes/react-fundamentals/21-pass-a-method-as-prop.md)
-22. [Fragment](notes/react-fundamentals/22-fragment.md)
 23. [Inline css](notes/react-fundamentals/23-inline-css.md)
 24. [Table syntax in React](notes/react-fundamentals/24-table-syntax-in-raect.md)
 25. [LifeCycle](notes/react-fundamentals/25-life-cycle.md)
