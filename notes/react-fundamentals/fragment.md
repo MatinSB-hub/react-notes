@@ -39,9 +39,7 @@ return (
 ```jsx
 {
   items.map((item) => (
-    <React.Fragment key={item.id}>
-      {" "}
-      👈
+    <React.Fragment key={item.id}> 👈
       <li>{item.name}</li>
       <li>{item.price}</li>
     </React.Fragment>
