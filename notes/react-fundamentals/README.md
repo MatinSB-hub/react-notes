@@ -4,6 +4,7 @@
 
 1. [Conditional Rendering(Logical Operator)](conditional-rendering.md)
 1. [Activity Component](activity-component.md)
+3. [Fragment](fragment.md)
 <!--
 3. [Css import](02-css-import.md)
 4. [CSS Modules](03-css-modules.md)
@@ -25,7 +26,6 @@
 20. [Map (List Rendering)](19-map-list-rendering.md)
 21. [Controlled Component](20-controlled-components.md)
 22. [Pass a method as prop](21-pass-a-method-as-prop.md)
-23. [Fragment](22-fragment.md)
 24. [Inline css](23-inline-css.md)
 25. [Table syntax in React](24-table-syntax-in-raect.md)
 26. [LifeCycle](25-life-cycle.md)
