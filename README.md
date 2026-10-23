@@ -83,8 +83,8 @@
 4. [useCallback](notes/hooks-and-performance/use-callback.md)
 5. [useRef](notes/hooks-and-performance/use-ref.md)
 6. [useLayoutEffect](notes/hooks-and-performance/use-layout-effect.md)
+7. [useId](notes/hooks-and-performance/use-id.md)
 <!--
-1. [useId](notes/hooks-and-performance/01-use-id.md)
 2. [useEffect](notes/hooks-and-performance/02-use-effect.md)
 7. [Context (useContext)](notes/hooks-and-performance/07-context-use-context.md)
 8. [useReducer](notes/hooks-and-performance/08-usereducer-top.md)
