@@ -1,6 +1,7 @@
 # JavaScript Basics (ES6+)
 
 ## موضوعات این دسته
+1. [filter](filter.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
@@ -15,7 +16,6 @@
 11. [Class](11-class.md)
 12. [extends](12-extends.md)
 13. [Template string](13-template-string.md)
-14. [filter](14-filter.md)
 15. [reduce](15-reduce.md)
 16. [Truthy & Falsy values](16-truthy-and-falsy-values.md)
 17. [Object.entries](17-object-entries.md)
