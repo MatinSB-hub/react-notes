@@ -9,6 +9,7 @@
 ### JavaScript Basics (ES6+)
 ---
 پوشه: [`notes/javascript-basics/`](notes/javascript-basics/)
+1. [filter](notes/javascript-basics/filter.md)
 <!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
@@ -23,7 +24,6 @@
 11. [Class](notes/javascript-basics/11-class.md)
 12. [extends](notes/javascript-basics/12-extends.md)
 13. [Template string](notes/javascript-basics/13-template-string.md)
-14. [filter](notes/javascript-basics/14-filter.md)
 15. [reduce](notes/javascript-basics/15-reduce.md)
 16. [Truthy & Falsy values](notes/javascript-basics/16-truthy-and-falsy-values.md)
 17. [Object.entries](notes/javascript-basics/17-object-entries.md)
