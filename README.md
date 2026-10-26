@@ -105,13 +105,14 @@
 ### React Router
 ---
 پوشه: [`notes/react-router/`](notes/react-router/)
+
+1. [send state to route](notes/react-router/send-state-to-route.md)
 <!--
 1. [react-router](notes/react-router/01-react-router.md)
 2. [Loader](notes/react-router/02-loader.md)
 3. [Not Found](notes/react-router/03-not-found.md)
 4. [useLocation](notes/react-router/04-use-location.md)
 5. [useNavigate](notes/react-router/05-use-navigate.md)
-6. [ارسال state به route (Navigate state)](notes/react-router/06-send-state-to-route.md)
 7. [Navigate Component](notes/react-router/07-navigate-components.md)
 8. [Nested Routes](notes/react-router/08-nested-routes.md)
 9. [How to collect all subroutes](notes/react-router/09-how-to-collect-all-subroutes.md)
