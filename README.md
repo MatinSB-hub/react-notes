@@ -106,7 +106,8 @@
 ---
 پوشه: [`notes/react-router/`](notes/react-router/)
 
-1. [send state to route](notes/react-router/send-state-to-route.md)
+1. [Send State To Route](notes/react-router/send-state-to-route.md)
+2. [Route Protection](notes/react-router/route-protection.md)
 <!--
 1. [react-router](notes/react-router/01-react-router.md)
 2. [Loader](notes/react-router/02-loader.md)
@@ -117,7 +118,6 @@
 8. [Nested Routes](notes/react-router/08-nested-routes.md)
 9. [How to collect all subroutes](notes/react-router/09-how-to-collect-all-subroutes.md)
 10. [useMatches()](notes/react-router/10-use-matches.md)
-11. [Route Protection](notes/react-router/11-route-protection.md)
 12. [searchParams](notes/react-router/12-search-params.md)
 13. [NavLink](notes/react-router/13-nav-link.md)
 14. [Scroll reset](notes/react-router/14-scroll-reset.md)
