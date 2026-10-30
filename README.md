@@ -107,10 +107,10 @@
 پوشه: [`notes/react-router/`](notes/react-router/)
 
 1. [Send State To Route](notes/react-router/send-state-to-route.md)
-2. [Route Protection](notes/react-router/route-protection.md)
+2. [Loader](notes/react-router/loader.md)
+3. [Route Protection](notes/react-router/route-protection.md)
 <!--
 1. [react-router](notes/react-router/01-react-router.md)
-2. [Loader](notes/react-router/02-loader.md)
 3. [Not Found](notes/react-router/03-not-found.md)
 4. [useLocation](notes/react-router/04-use-location.md)
 5. [useNavigate](notes/react-router/05-use-navigate.md)
