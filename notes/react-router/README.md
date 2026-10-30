@@ -3,10 +3,10 @@
 ## موضوعات این دسته
 
 1. [Send State To Route](send-state-to-route.md)
-2. [Route Protection](route-protection.md)
+2. [Loader](loader.md)
+3. [Route Protection](route-protection.md)
 <!--
 1. [react-router](01-react-router.md)
-2. [Loader](02-loader.md)
 3. [Not Found](03-not-found.md)
 4. [useLocation](04-use-location.md)
 5. [useNavigate](05-use-navigate.md)
