@@ -2,6 +2,7 @@
 
 ## موضوعات این دسته
 1. [filter](filter.md)
+2. [Object.entries](object-entries.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
@@ -18,7 +19,6 @@
 13. [Template string](13-template-string.md)
 15. [reduce](15-reduce.md)
 16. [Truthy & Falsy values](16-truthy-and-falsy-values.md)
-17. [Object.entries](17-object-entries.md)
 18. [Array.from({length:4})](18-array-from.md)
 19. [Double NOT operator](19-double-not-operator.md)
 20. [difference between || and ?? operators](20-difference-between-and-operators.md)
