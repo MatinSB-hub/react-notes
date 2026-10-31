@@ -10,6 +10,7 @@
 ---
 پوشه: [`notes/javascript-basics/`](notes/javascript-basics/)
 1. [filter](notes/javascript-basics/filter.md)
+2. [Object.entries](notes/javascript-basics/object-entries.md)
 <!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
@@ -26,7 +27,6 @@
 13. [Template string](notes/javascript-basics/13-template-string.md)
 15. [reduce](notes/javascript-basics/15-reduce.md)
 16. [Truthy & Falsy values](notes/javascript-basics/16-truthy-and-falsy-values.md)
-17. [Object.entries](notes/javascript-basics/17-object-entries.md)
 18. [Array.from({length:4})](notes/javascript-basics/18-array-from.md)
 19. [Double NOT operator](notes/javascript-basics/19-double-not-operator.md)
 20. [difference between || and ?? operators](notes/javascript-basics/20-difference-between-and-operators.md)
