@@ -4,6 +4,7 @@
 1. [filter](filter.md)
 2. [Object.entries](object-entries.md)
 3. [reduce](reduce.md)
+4. [New Set](new-set.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
@@ -22,5 +23,4 @@
 18. [Array.from({length:4})](18-array-from.md)
 19. [Double NOT operator](19-double-not-operator.md)
 20. [difference between || and ?? operators](20-difference-between-and-operators.md)
-21. [New Set](21-new-set.md)
 22. [Numbers length](22-number-length.md)
