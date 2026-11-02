@@ -12,6 +12,7 @@
 1. [filter](notes/javascript-basics/filter.md)
 2. [Object.entries](notes/javascript-basics/object-entries.md)
 3. [reduce](notes/javascript-basics/reduce.md)
+4. [New Set](notes/javascript-basics/new-set.md)
 <!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
@@ -30,7 +31,6 @@
 18. [Array.from({length:4})](notes/javascript-basics/18-array-from.md)
 19. [Double NOT operator](notes/javascript-basics/19-double-not-operator.md)
 20. [difference between || and ?? operators](notes/javascript-basics/20-difference-between-and-operators.md)
-21. [New Set](notes/javascript-basics/21-new-set.md)
 22. [Numbers length](notes/javascript-basics/22-number-length.md)
 -->
 
