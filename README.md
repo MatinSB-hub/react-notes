@@ -109,11 +109,11 @@
 1. [Send State To Route](notes/react-router/send-state-to-route.md)
 2. [Loader](notes/react-router/loader.md)
 3. [Route Protection](notes/react-router/route-protection.md)
+4. [useNavigate](notes/react-router/use-navigate.md)
 <!--
 1. [react-router](notes/react-router/01-react-router.md)
 3. [Not Found](notes/react-router/03-not-found.md)
 4. [useLocation](notes/react-router/04-use-location.md)
-5. [useNavigate](notes/react-router/05-use-navigate.md)
 7. [Navigate Component](notes/react-router/07-navigate-components.md)
 8. [Nested Routes](notes/react-router/08-nested-routes.md)
 9. [How to collect all subroutes](notes/react-router/09-how-to-collect-all-subroutes.md)
