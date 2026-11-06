@@ -6,10 +6,10 @@
 3. [reduce](reduce.md)
 4. [New Set](new-set.md)
 5. [Ternary Condition](ternary-condition.md)
+6. [Spread Syntax](spread-syntax.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
-3. [Spread Syntax](03-spread-syntax.md)
 4. [Array Destructuring](04-array-destructuring.md)
 5. [Object Destructuring](05-object-destructuring.md)
 7. [Module](07-module.md)
