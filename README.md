@@ -14,10 +14,10 @@
 3. [reduce](notes/javascript-basics/reduce.md)
 4. [New Set](notes/javascript-basics/new-set.md)
 5. [Ternary Condition](notes/javascript-basics/ternary-condition.md)
+6. [Spread Syntax](notes/javascript-basics/spread-syntax.md)
 <!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
-3. [Spread Syntax](notes/javascript-basics/03-spread-syntax.md)
 4. [Array Destructuring](notes/javascript-basics/04-array-destructuring.md)
 5. [Object Destructuring](notes/javascript-basics/05-object-destructuring.md)
 7. [Module](notes/javascript-basics/07-module.md)
