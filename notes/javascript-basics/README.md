@@ -7,6 +7,7 @@
 4. [New Set](new-set.md)
 5. [Ternary Condition](ternary-condition.md)
 6. [Spread Syntax](spread-syntax.md)
+7. [Template string](template-string.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
@@ -18,7 +19,6 @@
 10. [Bind](10-bind.md)
 11. [Class](11-class.md)
 12. [extends](12-extends.md)
-13. [Template string](13-template-string.md)
 16. [Truthy & Falsy values](16-truthy-and-falsy-values.md)
 18. [Array.from({length:4})](18-array-from.md)
 19. [Double NOT operator](19-double-not-operator.md)
