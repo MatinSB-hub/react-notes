@@ -8,6 +8,7 @@
 5. [Ternary Condition](ternary-condition.md)
 6. [Spread Syntax](spread-syntax.md)
 7. [Template string](template-string.md)
+8. [Double NOT operator](double-not-operator.md)
 <!--
 1. [Arrow Functions](01-arrow-functions.md)
 2. [Rest Operator](02-rest-operator.md)
@@ -21,6 +22,5 @@
 12. [extends](12-extends.md)
 16. [Truthy & Falsy values](16-truthy-and-falsy-values.md)
 18. [Array.from({length:4})](18-array-from.md)
-19. [Double NOT operator](19-double-not-operator.md)
 20. [difference between || and ?? operators](20-difference-between-and-operators.md)
 22. [Numbers length](22-number-length.md)
