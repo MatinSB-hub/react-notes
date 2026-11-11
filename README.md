@@ -16,6 +16,7 @@
 5. [Ternary Condition](notes/javascript-basics/ternary-condition.md)
 6. [Spread Syntax](notes/javascript-basics/spread-syntax.md)
 7. [Template string](notes/javascript-basics/template-string.md)
+8. [Double NOT operator](notes/javascript-basics/double-not-operator.md)
 <!--
 1. [Arrow Functions](notes/javascript-basics/01-arrow-functions.md)
 2. [Rest Operator](notes/javascript-basics/02-rest-operator.md)
@@ -29,7 +30,6 @@
 12. [extends](notes/javascript-basics/12-extends.md)
 16. [Truthy & Falsy values](notes/javascript-basics/16-truthy-and-falsy-values.md)
 18. [Array.from({length:4})](notes/javascript-basics/18-array-from.md)
-19. [Double NOT operator](notes/javascript-basics/19-double-not-operator.md)
 20. [difference between || and ?? operators](notes/javascript-basics/20-difference-between-and-operators.md)
 22. [Numbers length](notes/javascript-basics/22-number-length.md)
 -->
