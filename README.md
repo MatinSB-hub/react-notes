@@ -110,9 +110,9 @@
 2. [Loader](notes/react-router/loader.md)
 3. [Route Protection](notes/react-router/route-protection.md)
 4. [useNavigate](notes/react-router/use-navigate.md)
+5. [Not Found](notes/react-router/not-found.md)
 <!--
 1. [react-router](notes/react-router/01-react-router.md)
-3. [Not Found](notes/react-router/03-not-found.md)
 4. [useLocation](notes/react-router/04-use-location.md)
 7. [Navigate Component](notes/react-router/07-navigate-components.md)
 8. [Nested Routes](notes/react-router/08-nested-routes.md)
