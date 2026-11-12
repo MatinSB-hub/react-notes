@@ -6,9 +6,9 @@
 2. [Loader](loader.md)
 3. [Route Protection](route-protection.md)
 4. [useNavigate](use-navigate.md)
+5. [Not Found](not-found.md)
 <!--
 1. [react-router](01-react-router.md)
-3. [Not Found](03-not-found.md)
 4. [useLocation](04-use-location.md)
 7. [Navigate Component](07-navigate-components.md)
 8. [Nested Routes](08-nested-routes.md)
